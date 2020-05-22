@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Menu</string>
+    <string name="str_main_txt">
+
+        Click the top menu or kotlin icon
+        \n\n
+        GitHub.com/alirezsbashi
+
+    </string>
+</resources>

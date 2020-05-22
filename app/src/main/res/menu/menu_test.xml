@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/kotlin"
+        android:title="Kotloin"
+        app:showAsAction="always"
+        android:icon="@drawable/kotlin"/>
+
+    <item
+        android:id="@+id/info"
+        android:title="info"
+        android:icon="@drawable/kotlin"/>
+
+    <item
+        android:id="@+id/about"
+        android:title="about us"
+        android:icon="@drawable/kotlin"/>
+
+
+</menu>
